@@ -1,0 +1,31 @@
+Cameras,similar_camera,cosine_similarity
+Canon EOS 850D,Canon EOS M200,1.0
+Canon EOS 850D,Canon EOS 250D,1.0
+Canon EOS 850D,Canon EOS M50,1.0
+Canon EOS 850D,Canon EOS Rebel T7,1.0
+Canon EOS 850D,Canon PowerShot G1 X Mark III,1.0
+Canon EOS 850D,Canon EOS M100,1.0
+Canon EOS 850D,Canon EOS Rebel SL2,1.0
+Canon EOS 850D,Canon EOS Rebel T7i,1.0
+Canon EOS 850D,Canon EOS 77D,1.0
+Canon EOS 850D,Canon EOS M6,1.0
+Sony a7R IV,Leica Q2,0.9949
+Sony a7R IV,Panasonic Lumix DC-S1R,0.9941
+Sony a7R IV,Nikon Z7,0.9928
+Sony a7R IV,Nikon D850,0.9928
+Sony a7R IV,Sony Alpha a7R III,0.9903
+Sony a7R IV,Sony Alpha A99 II,0.9903
+Sony a7R IV,Sony Cyber-shot DSC-RX1R II,0.9903
+Sony a7R IV,Sony Alpha 7R II,0.9903
+Sony a7R IV,Pentax K-1 Mark II,0.9813
+Sony a7R IV,Pentax K-1,0.9813
+Nikon Z7,Nikon D850,1.0
+Nikon Z7,Panasonic Lumix DC-S1R,0.9999
+Nikon Z7,Leica Q2,0.9994
+Nikon Z7,Sony Alpha a7R III,0.9993
+Nikon Z7,Sony Alpha A99 II,0.9993
+Nikon Z7,Sony Cyber-shot DSC-RX1R II,0.9993
+Nikon Z7,Sony Alpha 7R II,0.9993
+Nikon Z7,Pentax K-1 Mark II,0.9972
+Nikon Z7,Pentax K-1,0.9972
+Nikon Z7,Canon EOS 90D,0.993
